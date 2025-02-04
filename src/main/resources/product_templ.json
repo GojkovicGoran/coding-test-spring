@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "Sample Product",
+      "variants": [
+        {
+          "id": 987654321,
+          "sku": "SAMPLE123",
+          "price": "19.99"
+        }
+      ]
+    }
+  ]
+}
