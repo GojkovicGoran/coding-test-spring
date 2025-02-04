@@ -21,7 +21,8 @@ Shopify Admin API access tokens for both stores:
 git clone [repository-url]
 
 ```bash
-mvn clean install
+mvn clean install (First fix tests)
+mvn clean install -DskipTests
 
 ```bash
 mvn spring-boot:run
