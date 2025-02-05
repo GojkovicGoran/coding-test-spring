@@ -30,7 +30,7 @@ mvn spring-boot:run
 ## Server Port
 server.port=8081
 
-Once the application is running, you can access atwith SHOPIFY_ACCESS_TOKEN:
+Once the application is running, you can access at:
 
 http://localhost:8081/api/sync/products  
 
